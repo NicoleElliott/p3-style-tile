@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+html{
+	font-family: 'Esteban', serif;
+}
+
