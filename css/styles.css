@@ -47,17 +47,19 @@ section {
 
 .pattern-1{
 background: url("../img/bg.png");
+
 }
 
 .pattern-2{
  background: url("../img/parchment.jpg");
 }
 .pattern-3{
+ background: url("../img/lbg.png");
 
 }
 
 .pattern-4{
-
+background: url("../img/teal.png");
 }
 /* Show Grid */
 .showgrid {
