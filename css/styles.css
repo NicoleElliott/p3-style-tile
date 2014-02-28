@@ -44,6 +44,21 @@ section {
 .color-4{
 	background-color: #000000;
 }
+
+.pattern-1{
+background: url("../img/bg.png");
+}
+
+.pattern-2{
+ background: url("../img/parchment.jpg");
+}
+.pattern-3{
+
+}
+
+.pattern-4{
+
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
