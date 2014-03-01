@@ -1,13 +1,28 @@
 html{
-	font-family: 'PT Serif Caption', serif;
+	font-family: Georgia, serif;
 	text-decoration: none;
 }
 
 
 /* Set Your Own Margin & Padding */
-h2, h3, p {
+h1{
+font-family: Georgia, serif;
+}
+
+h2{
+font-family: Georgia, serif;
+}
+
+h3{
+font-family: Georgia, serif;
+
+} 
+
+p {
+	font-family: Verdana, sans-serif;
 	margin: 0;
 }
+
 
 /* Layout for Style Tile*/
 section {
@@ -25,8 +40,8 @@ section {
 	border: 1px solid #000;
 	float: left;
 	margin: 0 10px;
-	height: 50px;
-	width: 50px;
+	height: 200px;
+	width: 200px;
 }
 
 .color-1{
@@ -54,7 +69,7 @@ background: url("../img/bg.png");
  background: url("../img/parchment.jpg");
 }
 .pattern-3{
- background: url("../img/lbg.png");
+ background: url("../img/lbl.png");
 
 }
 
