@@ -57,26 +57,23 @@ section {
 }
 
 .color-4{
+	color: white;
 	background-color: #000000;
 }
 
 .pattern-1{
-background: url("../img/bg.png");
+background: url("bg.png");
 
 }
 
 .pattern-2{
- background: url("../img/parchment.jpg");
+ background: url("parchment.jpg");
 }
 .pattern-3{
- background: url("../img/lbl.png");
+ background: url("black geometric.png");
 
 }
 
 .pattern-4{
-background: url("../img/teal.png");
-}
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+background: url("teal.png");
 }

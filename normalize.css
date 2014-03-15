@@ -120,6 +120,19 @@ h1 {
     margin: 0.67em 0;
 }
 
+h2{
+font-family: 'Noto Serif', serif;
+}
+
+h3{
+font-family: 'Noto Serif', serif;
+
+} 
+
+p {
+  font-family: Verdana, sans-serif;
+  margin: 0;
+}
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
  */
